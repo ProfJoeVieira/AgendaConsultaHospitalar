@@ -1,2 +1,2 @@
 # AgendaConsultaHospitalar
-Projeto de Agendamento de Consultas Hospitalares
+Pré-Projeto de Agendamento de Consultas Hospitalares
